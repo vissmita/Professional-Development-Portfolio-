@@ -69,14 +69,14 @@ I am continuously working towards developing myself academically and professiona
 - Cadet Lance Corporal – St. John Ambulance Malaysia
 - Experience in teamwork, event coordination and student leadership.
 
-## 🎯 Extracurricular Activities
+## 📃 Extracurricular Activities
 
 - Participant – UTM NALI 2026 Programme
 - Active involvement in St. John Ambulance Malaysia
 - Participation in STEM competitions and academic programmes
 - University workshops, seminars and learning activities
 
-##📜 Certifications & Courses
+## 📜 Certifications & Courses
 
 - Digital Competency – Advanced Level
 - St. John Ambulance Malaysia – First Aid Training
