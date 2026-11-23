@@ -11,4 +11,5 @@ I am continuously working towards developing myself academically and professiona
 
 ## Academic Background 
 
-- U
+- University: Universiti Teknologi Malaysia (UTM)
+• Programme: Bachelor of Computer Science (Network and Computer Security)
