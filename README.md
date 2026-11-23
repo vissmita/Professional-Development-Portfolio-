@@ -14,28 +14,34 @@ I am continuously working towards developing myself academically and professiona
 ## Academic Background 
 
 🎓 University: Universiti Teknologi Malaysia (UTM)
+
 • Programme: Bachelor of Computer Science (Network and Computer Security)
 
 🏫 Pre-University 
+
 • Malaysian Matriculation Programme 
 • Kolej Matrikulasi Kelantan
 
 📚 Secondary Education 
+
 • SMK Bukit Jambul
 
 
 ## 👩🏻‍💻 Technical Skills
+
 • C++ Programming (Learning) 
 • Basic Computer Science Concepts 
 • Problem-Solving
 
 ## 💬 Professional Skills
+
 • Communication 
 • Teamwork and Collaboration 
 • Time Management 
 • Adaptability 
 
-## 💡 Professional Interests 
+## 💡 Professional Interests
+ 
 • Cybersecurity 
 • Computer Networking 
 • Software Development 
